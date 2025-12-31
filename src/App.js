@@ -61,7 +61,7 @@ const slides = [
   {
     id: 2,
     title: "Thank you Teacher!",
-    content: "Ma'am. To every skill I adopted for us to sustain, to understand emotions I wasn't able to comprehend, with every scolding you were building me brick by brick. You taught me how to love. Thoroughly. And I have doing that ever since. So Memdi, my respect for you can't be measured on any scale!",
+    content: "Ma'am. To every skill I adopted for us to sustain, to understand emotions I wasn't able to comprehend, with every scolding you were building me brick by brick. You taught me how to love. Thoroughly. And I have been doing that ever since. So Memdi, my respect for you can't be measured on any scale!",
     bgColor: "from-indigo-950 via-purple-900 to-indigo-950",
     emoji: "🦄",
     floatingEmojis: ["🦄", "🦄", "🦄", "🦄", "🦄", "🦄", "🦄", "🦄", "🦄", "🦄"]
@@ -77,7 +77,7 @@ const slides = [
   {
     id: 4,
     title: "You First, Always",
-    content: "I want you to be as you are and would like to see you prosper and grow as you are. You will be my first priority always, and me second. I knew from a sometime of meeting you, I will take care of you above anything else.",
+    content: "I want you to be as you are and would like to see you prosper and grow as you are. You will be my first priority always, and me second. I knew from sometime of meeting you, I will take care of you above anything else.",
     bgColor: "from-slate-900 via-red-950 to-slate-900",
     emoji: "🌙",
     floatingEmojis: ["🌙", "🌙", "🌙", "🌙", "🌙", "🌙", "🌙", "🌙", "🌙", "🌙"]
@@ -101,12 +101,12 @@ const slides = [
   {
     id: 7,
     title: "The Happiest Moment",
-    content: "Thank you for the giving me the opportunity to know you, to take care of you, to respect you, to love you and finally to kneel before you and present you with a ring. That was the happiest moment of my life yet. I could'nt be more grateful to the universe for giving me this goddess of a women.",
+    content: "Thank you for the giving me the opportunity to know you, to take care of you, to respect you, to love you and finally to kneel before you and present you with a ring. That was the happiest moment of my life yet. I couldn't be more grateful to the universe for giving me this goddess of a women.",
     bgColor: "from-red-950 via-pink-900 to-red-950",
     emoji: "💍",
     floatingEmojis: ["💍", "💍", "💍", "💍", "💍", "💍", "💍", "💍", "💍", "💍"],
     hasFalling: true,
-    fallingEmojis: ["🎈", "🎈", "🎈", "🖤", "🖤", "🖤", "🎗️", "🎗️", "🎗️", "🎈", "🖤", "🎗️", "🎈", "🖤", "🎗️", "🎈", "🖤", "🎗️", "🎈", "🖤", "🎗️", "🎈", "🖤", "🎗️", "🎈", "🖤", "🎗️", "🎈", "🖤", "🎗️", "🎈", "🖤", "🎗️", "🎈", "🖤", "🎗️", "🎈", "🖤", "🎗️", "🎈"]
+    fallingEmojis: ["🎈", "🎈", "🎈", "🖤", "🖤", "🖤", "🎈", "🎈", "🎈", "🎈", "🖤", "🎈", "🎈", "🖤", "🎈", "🎈", "🖤", "🎈", "🎈", "🖤", "🎈", "🎈", "🖤", "🎈", "🎈", "🖤", "🎈", "🎈", "🖤", "🎈", "🎈", "🖤", "🎈", "🎈", "🖤", "🎈", "🎈", "🖤", "🎈", "🎈"]
   },
   {
     id: 8,
